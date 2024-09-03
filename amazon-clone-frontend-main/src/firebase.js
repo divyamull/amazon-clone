@@ -4,7 +4,7 @@ import {getAuth} from 'firebase/auth'
 import {getFirestore} from 'firebase/firestore'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDMY5yo_atF7PTB4N4_8SbKVb2hvzpyx6o",
+  apiKey: "your-key",
   authDomain: "amzonee-clone.firebaseapp.com",
   databaseURL: "https://amzonee-clone.firebaseio.com",
   projectId: "amzonee-clone",
